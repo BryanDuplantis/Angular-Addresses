@@ -1,0 +1,17 @@
+{
+  "name": "Angular-Addresses",
+  "version": "0.0.0",
+  "homepage": "https://github.com/BryanDuplantis/Angular-Addresses",
+  "authors": [
+    "Bryan Duplantis <duplantis@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
